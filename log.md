@@ -73,3 +73,23 @@ I decided to enroll in the freeCodeCamp in order to sharpen my skills that would
 * began composing log.md
 * created secure local folder for the freecodecamp project, not in project folder, but in root of githubrepos
 * used git plus to refresh changes
+* encountered issue with Mac's .DS_Store local file in root of freecodecamp directory and .gitignore file not working, I had the file in ~/.git/.gitignore. I moved it to ~/githubrepos/freecode camp, and that resolved the issue
+
+Here is the current code of .gitignore
+
+```
+DS_Store
+*.lock
+*.swp
+*.out
+*.gitignore
+```
+
+The git commands that I used were similar to the following...
+
+```
+git add .
+git commit -m "Another commit"
+git push
+git status
+```
