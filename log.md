@@ -56,3 +56,14 @@ git commit -m "Another commit"
 git push
 git status
 ```
+
+* further change, I had to specify that my .gitignore file was global and then remove .DS_Store from the cache and then push the change.
+
+```
+git config --global core.excludesfile ~/githubrepos/freecodecamp/.gitignore
+git rm --cached .DS_Store
+git add .
+git commit -m "DS"
+git push
+git status
+```
