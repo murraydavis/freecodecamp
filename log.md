@@ -41,7 +41,7 @@ I decided to enroll in the freeCodeCamp in order to sharpen my skills that would
 Here is the current code of .gitignore
 
 ```
-DS_Store
+.DS_Store
 *.lock
 *.swp
 *.out
