@@ -67,3 +67,20 @@ git commit -m "DS"
 git push
 git status
 ```
+
+* spent a considerable amount of time setting up Anaconda 2.7 and Anaconda 3.6 on my Mac...somewhat off channel, I suppose.
+
+#### June 9th
+
+* I took a day off...
+
+#### June 10th
+
+* Wrote ahead titles in my html5_css.md document and completed a few lessons. Added a few days ahead in this document.
+
+#### June 11th
+#### June 12th
+#### June 13th
+#### June 14th
+#### June 15th
+#### June 16th

@@ -241,3 +241,173 @@
 <p class="red-text">Kitty ipsum dolor.</p>
 <p class="red-text">Purr jump eat.</p>
 ```
+
+### Add Rounded Corners with a Border Radius
+
+```
+<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+<style>
+  .red-text {
+    color: red;
+  }
+
+  h2 {
+    font-family: Lobster, Monospace;
+  }
+
+  p {
+    font-size: 16px;
+    font-family: Monospace;
+  }
+
+  .thick-green-border {
+    border-color: green;
+    border-width: 10px;
+    border-style: solid;
+    <!-- Round corners for border -->
+    border-radius: 10px;
+  }
+
+  .smaller-image {
+    width: 100px;
+  }
+</style>
+
+<h2 class="red-text">CatPhotoApp</h2>
+
+<img class="smaller-image thick-green-border" src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back. ">
+
+<p class="red-text">Kitty ipsum dolor.</p>
+<p class="red-text">Purr jump eat.</p>
+```
+### Make Circular Images with a Border Radius
+
+```
+<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+<style>
+  .red-text {
+    color: red;
+  }
+
+  h2 {
+    font-family: Lobster, Monospace;
+  }
+
+  p {
+    font-size: 16px;
+    font-family: Monospace;
+  }
+
+  .thick-green-border {
+    border-color: green;
+    border-width: 10px;
+    border-style: solid;
+    <!-- Circular border, note % -->
+    border-radius: 50%;
+  }
+
+  .smaller-image {
+    width: 100px;
+  }
+</style>
+
+<h2 class="red-text">CatPhotoApp</h2>
+
+<img class="smaller-image thick-green-border" src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back. ">
+
+<p class="red-text">Kitty ipsum dolor.</p>
+<p class="red-text">Purr jump eat.</p>
+```
+
+### Link to External Pages with Anchor Elements
+
+```
+```
+
+### Nest an Anchor Element within a Paragraph
+
+```
+```
+
+### Make Dead Links using the Hash Symbol
+
+```
+```
+
+### Turn an Image into a Link
+
+```
+```
+
+### Create a Bulleted Unordered List
+
+```
+```
+
+### Create an Ordered List
+
+```
+```
+
+### Create a Text Field
+
+```
+```
+
+### Add Placeholder Text to a Text Field
+
+```
+```
+
+### Create a form Element
+
+```
+```
+
+### Add a Submit Button to a form
+
+```
+```
+
+### Use HTML5 to Require a Field
+
+```
+```
+
+### Create a Set of Radio Buttons
+
+```
+```
+
+### Create a set of Checkboxes
+
+```
+```
+
+### Create Radio Buttons and Checkboxes by Default
+
+```
+```
+
+### Nest Many Elements within a Single Div Element
+
+```
+```
+
+### Give a Background Color to a Div Element
+
+```
+```
+
+### Set the ID of an Element
+
+```
+```
+###
+
+```
+```
+###
+
+```
+```
