@@ -79,8 +79,73 @@ git status
 * Wrote ahead titles in my html5_css.md document and completed a few lessons. Added a few days ahead in this document.
 
 #### June 11th
-#### June 12th
-#### June 13th
+
+* Set up clone of my Githubrepos/Linux System Administration on my MacOSX.
+* Minor edits to Evernote. Created new stack for my Githubrepos.
+
+#### June 12th - June 13
+
+* No activity
+
 #### June 14th
+
+* Cloned Spellbook of Modern Web Development, launch from command line: open -a safari README.md. However, it opened as a text file. Researched the issue. First, I installed the open source package, MacDown. It worked well, but could not install Plugins or the Terminal extension.
+
+* Also, found the Markdown Preview within Atom, unfortuately the shift-ctrl-M combination does not work, but the Packages/Markdown Preview menu toggle does work.
+
+* I disabled Markdown Preview and installed Markdown Preview Plus...better rendering to HTML.
+
+* The issue with shift-ctrl-M was a conflict with the Emmet package. I added the following code to keymap.cson, the (Atom/Keymap...).
+
+```
+'.editor:not(.mini)':
+    'ctrl-shift-M': 'markdown-preview-plus:toggle'
+```
+
 #### June 15th
+
+*
+
 #### June 16th
+
+*
+
+#### June 17th
+
+*
+
+#### June 18th
+
+*
+
+#### June 19th
+
+*
+
+#### June 20th
+
+*
+
+#### June 21th
+
+*
+
+#### June 22th
+
+*
+
+#### June 23th
+
+*
+
+#### June 24th
+
+*
+
+#### June 25th
+
+*
+
+#### June 26th
+
+*
