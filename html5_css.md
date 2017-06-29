@@ -322,26 +322,177 @@
 ### Link to External Pages with Anchor Elements
 
 ```
+<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+<style>
+  .red-text {
+    color: red;
+  }
+
+  h2 {
+    font-family: Lobster, Monospace;
+  }
+
+  p {
+    font-size: 16px;
+    font-family: Monospace;
+  }
+
+  .thick-green-border {
+    border-color: green;
+    border-width: 10px;
+    border-style: solid;
+    border-radius: 50%;
+  }
+
+  .smaller-image {
+    width: 100px;
+  }
+</style>
+
+<h2 class="red-text">CatPhotoApp</h2>
+
+<img class="smaller-image thick-green-border" src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back. ">
+
+<p class="red-text">Kitty ipsum dolor.</p>
+<p class="red-text">Purr jump eat
+.</p>
+<!--An anchor reference to an external link-->
+<p><a href="http://freecatphotoapp.com">cat photos</a></p>
 ```
 
 ### Nest an Anchor Element within a Paragraph
 
 ```
+<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+<style>
+  .red-text {
+    color: red;
+  }
+
+  h2 {
+    font-family: Lobster, Monospace;
+  }
+
+  p {
+    font-size: 16px;
+    font-family: Monospace;
+  }
+
+  .thick-green-border {
+    border-color: green;
+    border-width: 10px;
+    border-style: solid;
+    border-radius: 50%;
+  }
+
+  .smaller-image {
+    width: 100px;
+  }
+</style>
+
+<h2 class="red-text">CatPhotoApp</h2>
+<!--Anchor element within paragraph-->
+<p>View more <a href="http://www.freecatphotoapp.com">cat photos</a></p>
+
+<img class="smaller-image thick-green-border" src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back. ">
+
+<p class="red-text">Kitty ipsum dolor.</p>
+<p class="red-text">Purr jump eat.</p>
 ```
 
 ### Make Dead Links using the Hash Symbol
 
+Sometimes you want to add a elements to your website before you know where they will link.
+
+This is also handy when you're changing the behavior of a link using jQuery, which we'll learn about later.
+
 ```
+<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+<style>
+  .red-text {
+    color: red;
+  }
+
+  h2 {
+    font-family: Lobster, Monospace;
+  }
+
+  p {
+    font-size: 16px;
+    font-family: Monospace;
+  }
+
+  .thick-green-border {
+    border-color: green;
+    border-width: 10px;
+    border-style: solid;
+    border-radius: 50%;
+  }
+
+  .smaller-image {
+    width: 100px;
+  }
+</style>
+
+<h2 class="red-text">CatPhotoApp</h2>
+<!--Anchor element with dead link.-->
+<p>Click here for <a href="#">cat photos</a>.</p>
+
+<img class="smaller-image thick-green-border" src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back. ">
+
+<p class="red-text">Kitty ipsum dolor.</p>
+<p class="red-text">Purr jump eat.</p>
 ```
 
 ### Turn an Image into a Link
 
+You can make elements into links by nesting them within an a element.
+
+Place the existing image element within an anchor element.
+
 ```
+<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+<style>
+  .red-text {
+    color: red;
+  }
+
+  h2 {
+    font-family: Lobster, Monospace;
+  }
+
+  p {
+    font-size: 16px;
+    font-family: Monospace;
+  }
+
+  .thick-green-border {
+    border-color: green;
+    border-width: 10px;
+    border-style: solid;
+    border-radius: 50%;
+  }
+
+  .smaller-image {
+    width: 100px;
+  }
+</style>
+
+<h2 class="red-text">CatPhotoApp</h2>
+
+<p>Click here for <a href="#">cat photos</a>.</p>
+
+<!--Place cursor over image and now a hyperlink.-->
+<a href="#"><img class="smaller-image thick-green-border" src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back. "></a>
+
+<p class="red-text">Kitty ipsum dolor.</p>
+<p class="red-text">Purr jump eat.</p>
 ```
 
 ### Create a Bulleted Unordered List
 
 ```
+
 ```
 
 ### Create an Ordered List

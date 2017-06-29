@@ -104,48 +104,65 @@ git status
 
 #### June 15th
 
-*
+* Day off.
 
 #### June 16th
 
-*
+* Created two new GitHub repos, learningLaTeX and learningsage.
+
+* Logged onto SageMath site, which is now called CoCalc.com and looked at old projects.
 
 #### June 17th
 
-*
+* Figured out how to run SageMath locally. Have to run from command line. Added: /Applications/SageMath-7.6.app to $PATH in .bash_profile, so that I could run the command: sage, from anywhere. Launch a local notebook with the command: notebook().
 
 #### June 18th
 
-*
+* GitHub cloned learningsagemath and learningLaTeX.
+
+* Completed a few FCC challenges.
+
+* Purchased two software packages to help organize: DevonThinkPro and DevonAgentPro.
 
 #### June 19th
 
-*
+* Exploring DevonThinkPro.
 
 #### June 20th
 
+* Exporing DevonThinkPro using Linux System Administration as the first database. Installed and configured DevonThinkPro To Go on iPad and iPhone.
+
+* Installed HomeBrew and node on MacOSX...see DevonThinkPro for notes.
+
+* Updated Aquamacs and installed Command Line Tools and the AUCTex package.
+
+#### June 21th - June 26th
+
+* Added some developer resources to iPad and iPhone on DevonThinkGo.
+
+#### June 27th
+
+* Purchased TaskPaper for todo lists.
+
+* Plugged in 2TB Iomega drive into Time Capsule for local file level backups (ChronoSync).
+
+#### June 28th
+
+* Purchased ChronoSync and ChronoAgent for backups. Configured first backup.
+
+* Reconfigured Time Capsule to do complete MacOSX backup.
+
+* Faught with getting Ruby/Rails installed on my system. Succeeded, notes are in DevonThinkPro.
+
+#### June 29th
+
+* Over the last couple of days, I contiued to create items in DevonAgentPro, new databases and groups within databases.
+
+* Currently, these are the databases(top-level groups): Astronomy, Developer (Developer Networks, Developer Tools, MOOC, murraydavis.ca, Programming Languages),  Job Hunt (Viatec), Linux System Administration (Github Explore This Week, Githubrepos, Managing File System), MacOSX (Backups, HomeBrew, HowTos, MacPorts), SageMath, Writing (Web resources).
+
+#### June 30th
+
 *
 
-#### June 21th
-
-*
-
-#### June 22th
-
-*
-
-#### June 23th
-
-*
-
-#### June 24th
-
-*
-
-#### June 25th
-
-*
-
-#### June 26th
-
+#### July 1st
 *
